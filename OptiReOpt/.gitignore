@@ -10,7 +10,6 @@ logs
 *.lib
 *.obj
 *.exe
-*.dll
 *Cffi.c
 .ipynb_checkpoints
 __pycache__
